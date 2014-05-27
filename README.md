@@ -10,7 +10,7 @@ Version: 1.0
 Instructions
 ------------ 
 1. Add this file to your Messages' AppleScript folder
-..* Typically `/Users/username/Library/Application Scripts/com.apple.iChat`
+  * Typically `/Users/username/Library/Application Scripts/com.apple.iChat`
 2. Open Messages preferences
 3. Select this script as AppleScript Handler at the bottom of the General Settings page
 4. Set your status to "Not Sleeping" to activate
