@@ -7,6 +7,8 @@ File: Cinco Face Time Party Snoozer.applescript
 
 Version: 1.0
 
+![Great Job!](http://joecolicch.io/images/cincofacetimepartysnoozer.png)
+
 Instructions
 ------------ 
 1. Add this file to your Messages' AppleScript folder
