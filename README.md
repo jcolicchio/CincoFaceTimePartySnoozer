@@ -9,6 +9,8 @@ Version: 1.0
 
 ![Great Job!](http://joecolicch.io/images/cincofacetimepartysnoozer.png)
 
+See (the original product)[www.youtube.com/watch?v=Tvu2ZI329V4]
+
 Instructions
 ------------ 
 1. Add this file to your Messages' AppleScript folder
